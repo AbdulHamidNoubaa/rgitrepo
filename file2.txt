@@ -1,1 +1,2 @@
 Frist line to file2.txt
+Second line to file2.txt
